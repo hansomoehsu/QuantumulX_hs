@@ -1,13 +1,7 @@
 ###apple
-DOMAIN,autolinkmaker.itunes.apple.com,DIRECT
-DOMAIN,widgets.itunes.apple.com,DIRECT
-DOMAIN,banners.itunes.apple.com,DIRECT
-DOMAIN,iad.apple.com,DIRECT
-DOMAIN-SUFFIX,iadsdk.apple.com,DIRECT
-DOMAIN,tr.iadsdk.apple.com,DIRECT
-DOMAIN,cf.iadsdk.apple.com,DIRECT
-DOMAIN-SUFFIX,buy.itunes.apple.com,DIRECT
-DOMAIN,gateway.icloud.com,DIRECT
+HOST-KEYWORD,icloud,DIRECT
+HOST-KEYWORD,apple,DIRECT
+HOST-KEYWORD,itunes,DIRECT
 
 ##### https://javmost.xyz/  
 #DOMAIN, delivery-node-aziz.voe-network.net, reject
