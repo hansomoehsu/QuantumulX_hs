@@ -1563,7 +1563,6 @@ DOMAIN-SUFFIX,ak47.cooguo.com,REJECT
 DOMAIN-SUFFIX,akrwi.cn,REJECT
 DOMAIN-SUFFIX,akxsrsdbursfpx.bid,REJECT
 DOMAIN-SUFFIX,alertserver.ushaqi.com,REJECT
-DOMAIN-SUFFIX,alipay.dajiadou6.com,REJECT
 DOMAIN-SUFFIX,aliqqjd.cn,REJECT
 DOMAIN-SUFFIX,alisinak.com,REJECT
 DOMAIN-SUFFIX,alissl.ucdl.pp.uc.cn,REJECT
@@ -8950,8 +8949,6 @@ DOMAIN-SUFFIX,afpeng.alimama.com,REJECT
 DOMAIN-SUFFIX,afpssp.alimama.com,REJECT
 DOMAIN-SUFFIX,afptrack.alimama.com,REJECT
 DOMAIN-SUFFIX,alimama.alicdn.com,REJECT
-DOMAIN-SUFFIX,alipaylog.com,REJECT
-DOMAIN-SUFFIX,amdc.alipay.com,REJECT
 DOMAIN-SUFFIX,appdownload.alicdn.com,REJECT
 DOMAIN-SUFFIX,banner.alimama.com,REJECT
 DOMAIN-SUFFIX,c.alimama.com,REJECT
@@ -8960,7 +8957,6 @@ DOMAIN-SUFFIX,cpc.click.alimama.com,REJECT
 DOMAIN-SUFFIX,dorangesource.alicdn.com,REJECT
 DOMAIN-SUFFIX,hydra.alibaba.com,REJECT
 DOMAIN-SUFFIX,jsadsdisplay.cn-beijing.log.aliyuncs.com,REJECT
-DOMAIN-SUFFIX,mdap.alipaylog.com,REJECT
 DOMAIN-SUFFIX,mobaders.oss-cn-beijing.aliyuncs.com,REJECT
 DOMAIN-SUFFIX,p.alimama.com,REJECT
 DOMAIN-SUFFIX,static.alimama.com,REJECT
@@ -20826,7 +20822,6 @@ DOMAIN,click.aliexpress.com,REJECT
 DOMAIN,alikeaddition.com,REJECT
 DOMAIN,alimama.cn,REJECT
 DOMAIN,alimama.com,REJECT
-DOMAIN,ynuf.alipay.com,REJECT
 DOMAIN,alipromo.com,REJECT
 DOMAIN,alisat.biz,REJECT
 DOMAIN,lhg.alisinak.com,REJECT
@@ -113259,8 +113254,6 @@ DOMAIN,bms-5w-ext.nyc2.appnexus.com,REJECT
 DOMAIN,bnkmse.melisorganizasyon.net,REJECT
 
 
-
-
 # NAME: BiliBili
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
@@ -113337,7 +113330,7 @@ HOST-SUFFIX,biliapi.net,REJECT
 HOST-SUFFIX,bilibili.cc,REJECT
 HOST-SUFFIX,bilibili.cn,REJECT
 HOST-SUFFIX,bilibili.co,REJECT
-HOST-SUFFIX,bilibili.com,REJECT
+##HOST-SUFFIX,bilibili.com,REJECT
 HOST-SUFFIX,bilibili.tv,REJECT
 HOST-SUFFIX,bilibiligame.cn,REJECT
 HOST-SUFFIX,bilibiligame.net,REJECT
@@ -113385,4 +113378,22 @@ IP-CIDR,120.92.153.217/32,REJECT
 IP-CIDR,134.175.207.130/32,REJECT
 
 
-
+# NAME: AliPay
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-01-18 23:33:28
+# HOST-SUFFIX: 13
+# TOTAL: 13
+HOST-SUFFIX,alipay,REJECT
+HOST-SUFFIX,alipay-corp.com,REJECT
+HOST-SUFFIX,alipay-eco.com,REJECT
+HOST-SUFFIX,alipay-inc.com,REJECT
+HOST-SUFFIX,alipay.com,REJECT
+HOST-SUFFIX,alipay.net,REJECT
+HOST-SUFFIX,alipaydev.com,REJECT
+HOST-SUFFIX,alipaydns.com,REJECT
+HOST-SUFFIX,alipayeshop.com,REJECT
+HOST-SUFFIX,alipaylog.com,REJECT
+HOST-SUFFIX,alipayobjects.com,REJECT
+HOST-SUFFIX,ifaa.org.cn,REJECT
+HOST-SUFFIX,sinopayment.com.cn,REJECT
