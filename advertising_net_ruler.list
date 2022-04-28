@@ -6,7 +6,7 @@ DOMAIN,iad.apple.com,DIRECT
 DOMAIN-SUFFIX,iadsdk.apple.com,DIRECT
 DOMAIN,tr.iadsdk.apple.com,DIRECT
 DOMAIN,cf.iadsdk.apple.com,DIRECT
-DOMAIN,buy.itunes.apple.com,DIRECT
+DOMAIN-SUFFIX,buy.itunes.apple.com,DIRECT
 DOMAIN,gateway.icloud.com,DIRECT
 
 ##### https://javmost.xyz/  
