@@ -8321,7 +8321,7 @@ DOMAIN-SUFFIX,wmlog.meituan.com,REJECT
 DOMAIN-SUFFIX,adshow.58.com,REJECT
 DOMAIN-SUFFIX,track.58.com,REJECT
 DOMAIN-SUFFIX,tracklog.58.com,REJECT
-DOMAIN-SUFFIX,iadsdk.apple.com,REJECT
+DOMAIN-SUFFIX,iadsdk.apple.com,DIRECT
 DOMAIN-SUFFIX,ads.internal.unity3d.com,REJECT
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com,REJECT
 DOMAIN-SUFFIX,unityads.unity3d.com,REJECT
@@ -21207,10 +21207,10 @@ DOMAIN,appendad.com,REJECT
 DOMAIN,sjbtn.appfh.com,REJECT
 DOMAIN,www.appfh.com,REJECT
 DOMAIN,mga.api.appget.cn,REJECT
-DOMAIN,autolinkmaker.itunes.apple.com,REJECT
-DOMAIN,widgets.itunes.apple.com,REJECT
-DOMAIN,banners.itunes.apple.com,REJECT
-DOMAIN,iad.apple.com,REJECT
+DOMAIN,autolinkmaker.itunes.apple.com,DIRECT
+DOMAIN,widgets.itunes.apple.com,DIRECT
+DOMAIN,banners.itunes.apple.com,DIRECT
+DOMAIN,iad.apple.com,DIRECT
 DOMAIN,applebarq.com,REJECT
 DOMAIN,www.applequan.com,REJECT
 DOMAIN,assets.applovin.com,REJECT
@@ -81094,7 +81094,7 @@ DOMAIN,sayfabulunamadi.com,REJECT
 DOMAIN,x0slm.voluumtrk.com,REJECT
 DOMAIN,static-eb.media.net,REJECT
 DOMAIN,x.skimresources.com,REJECT
-DOMAIN,tr.iadsdk.apple.com,REJECT
+DOMAIN,tr.iadsdk.apple.com,DIRECT
 DOMAIN,widget.outbrain.com,REJECT
 DOMAIN,widget.plugrush.com,REJECT
 DOMAIN,sb44a.voluumtrk.com,REJECT
@@ -82644,7 +82644,7 @@ DOMAIN,goldenuploading.com,REJECT
 DOMAIN,gmgmcom.112.2o7.net,REJECT
 DOMAIN,dvzwh.voluumtrk.com,REJECT
 DOMAIN,intellicampaign.com,REJECT
-DOMAIN,cf.iadsdk.apple.com,REJECT
+DOMAIN,cf.iadsdk.apple.com,DIRECT
 DOMAIN,cf.p.msas.media.net,REJECT
 DOMAIN,goldmanplastics.com,REJECT
 DOMAIN,coolpremiumsnow.com,REJECT
