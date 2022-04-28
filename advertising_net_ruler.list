@@ -1,7 +1,7 @@
 ###apple
-HOST-KEYWORD,icloud,DIRECT
-HOST-KEYWORD,apple,DIRECT
-HOST-KEYWORD,itunes,DIRECT
+HOST-KEYWORD, icloud, DIRECT
+HOST-KEYWORD, apple, DIRECT
+HOST-KEYWORD, itunes, DIRECT
 
 ##### https://javmost.xyz/  
 #DOMAIN, delivery-node-aziz.voe-network.net, reject
